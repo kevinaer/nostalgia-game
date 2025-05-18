@@ -3,17 +3,23 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi260yewqssip"
-valid=false
+path="res://.godot/imported/Poliigon_WoodFloorAsh_4186_Roughness.jpg-a622173a9f923a415d3ca644fafd4e31.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://textures/Poliigon_WoodFloorAsh_4186/2K/Poliigon_WoodFloorAsh_4186_Roughness.jpg"
+dest_files=["res://.godot/imported/Poliigon_WoodFloorAsh_4186_Roughness.jpg-a622173a9f923a415d3ca644fafd4e31.ctex"]
 
 [params]
 
 compress/mode=0
 compress/high_quality=false
 compress/lossy_quality=0.7
+compress/uastc_level=0
+compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
